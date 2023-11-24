@@ -155,7 +155,7 @@ android {
         applicationId "fi.fmi.mobileweather.intl.demo"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 0000001
+        versionCode 0000002
         versionName "0.0.1"
         testBuildType System.getProperty('testBuildType', 'debug')  // This will later be used to control the test apk build type
         testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
